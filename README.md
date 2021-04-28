@@ -2,7 +2,7 @@
 
 ### Statistics 📈
 
-![Languages](https://github-readme-stats.vercel.app/api?username=nbirillo&show_icons=true)
+![Languages](https://github-readme-stats.vercel.app/api?username=nbirillo&show_icons=true&hide=stars)
 
 ### About me 🧐
 
