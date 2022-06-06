@@ -7,9 +7,9 @@
 ### About me 🧐
 
 ```kotlin
-val AnastasiaBirillo = developer {
+val AnastasiiaBirillo = developer {
     about {
-        name = "Anastasia Birillo"
+        name = "Anastasiia Birillo"
         company = JetBrains Research
         role = Researcher
     }
