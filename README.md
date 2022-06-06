@@ -1,8 +1,8 @@
 ## Hey, nice to see you 👋
 
-### Statistics 📈
+<!-- ### Statistics 📈
 
-![Languages](https://github-readme-stats.vercel.app/api?username=nbirillo&show_icons=true&hide=stars)
+![Languages](https://github-readme-stats.vercel.app/api?username=nbirillo&show_icons=true&hide=stars) -->
 
 ### About me 🧐
 
